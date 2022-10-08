@@ -1,0 +1,2 @@
+- Hi👋, I’m Fatima
+- 🌱 I'm a passionate Frontend developer who loves creating shiny websites and currently I'm learning Backend in Node.js
