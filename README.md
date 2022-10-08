@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface_277904-4191.jpg?w=1480)]
 <h1 align="center">Hi 👋, I'm Fatima</h1>
 <h3 align="center">I'm a passionate Frontend developer who loves creating shiny websites</h3>
 <img align="right" alt="Coding" width="370" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
